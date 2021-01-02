@@ -1,7 +1,12 @@
 # self-taught-roadmap
 
 self-taught-developer roadmap for me  
-author : DarrenKwon [tech blog](https://darrengwon.tistory.com/)
+author : DarrenKwon [tech blog](https://darrengwon.tistory.com/)  
+
+[teachyourselfcs](https://teachyourselfcs.com/)에서 권장하는 도서 모두  
+
+[컴퓨터 시스템 3판 :Computer Systems A Programmer's Perspective (3rd Edition)](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791185475219)  
+[데이터 중심 어플리케이션 설계](http://www.yes24.com/Product/Goods/59566585)  
 
 
 ## C와 컴퓨터 동작 원리
@@ -13,7 +18,7 @@ author : DarrenKwon [tech blog](https://darrengwon.tistory.com/)
 
 ## Linux(Ubuntu)  
 서브 컴퓨터 OS로 Ubuntu를 사용하여 리눅스를 생활화 합시다.  
-[생활코딩 Linux](https://www.inflearn.com/course/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B0%95%EC%A2%8C/dashboard)  
+[생활코딩 Linux(무료 강의)](https://www.inflearn.com/course/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B0%95%EC%A2%8C/dashboard)  
 [리눅스 서버를 다루는 기술 (도서)](http://www.yes24.com/Product/goods/17524704)  
 
 ## AWS Infra  
@@ -33,7 +38,7 @@ author : DarrenKwon [tech blog](https://darrengwon.tistory.com/)
 
 ## DB  
 [이것이 MySQL이다 (도서)](https://www.hanbit.co.kr/store/books/look.php?p_code=B2064300579)  
-[이것이 MySQL이다 (강의)](https://www.youtube.com/watch?v=xKYeJxBTt2E&list=PLVsNizTWUw7Hox7NMhenT-bulldCp9HP9&ab_channel=%ED%95%9C%EB%B9%9B%EB%AF%B8%EB%94%94%EC%96%B4) 
+[이것이 MySQL이다 (강의)](https://www.youtube.com/watch?v=xKYeJxBTt2E&list=PLVsNizTWUw7Hox7NMhenT-bulldCp9HP9&ab_channel=%ED%95%9C%EB%B9%9B%EB%AF%B8%EB%94%94%EC%96%B4)  
 [맛있는 MongoDB (도서)](http://www.yes24.com/Product/Goods/85011885)  
 
 ## Algorithm  
