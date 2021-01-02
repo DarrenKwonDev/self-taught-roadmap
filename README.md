@@ -18,6 +18,8 @@ author : DarrenKwon [tech blog](https://darrengwon.tistory.com/)
 
 ## Linux(Ubuntu)  
 서브 컴퓨터 OS로 Ubuntu를 사용하여 리눅스를 생활화 합시다.  
+Ubuntu로 개발을 할 때는 [한상곤 Sangon Han님의 강연](https://github.com/DarrenKwonDev/self-taught-roadmap/edit/main/README.md)를 한 번 보고 시작합시다.  
+
 [생활코딩 Linux(무료 강의)](https://www.inflearn.com/course/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B0%95%EC%A2%8C/dashboard)  
 [리눅스 서버를 다루는 기술 (도서)](http://www.yes24.com/Product/goods/17524704)  
 
